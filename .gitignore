@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+src/firebseConfig.js
+
 # testing
 /coverage
 
